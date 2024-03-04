@@ -1,4 +1,4 @@
-order_line,order_id,order_date,ship_date,ship_mode,customer_id,product_id,sales,quantity,discount,profit
+order_line_header,order_id,order_date,ship_date,ship_mode,customer_id,product_id,sales,quantity,discount,profit
 4,US-2015-108966,10/11/2015,10/18/2015,Standard Class,SO-20335,FUR-TA-10000577,957.5775,5,0.45,-383.031
 5,US-2015-108966,10/11/2015,10/18/2015,Standard Class,SO-20335,OFF-ST-10000760,22.368,2,0.2,2.5164
 6,CA-2014-115812,6/9/2014,6/14/2014,Standard Class,BH-11710,FUR-FU-10001487,48.86,7,0,14.1694
